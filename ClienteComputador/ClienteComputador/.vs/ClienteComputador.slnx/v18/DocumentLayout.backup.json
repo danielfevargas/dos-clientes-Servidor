@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\daniel\\desktop\\clientecomputador\\clientecomputador\\clientecomputador\\guiactualizarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiactualizarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUIActualizarComputador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIActualizarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIActualizarComputador.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIActualizarComputador.cs [Design]",
+              "RelativeToolTip": "ClienteComputador\\GUIActualizarComputador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:24:11.948Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

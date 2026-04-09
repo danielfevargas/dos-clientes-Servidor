@@ -42,10 +42,15 @@ namespace ClienteComputador
         {
             MessageBox.Show(
                 "Gestion de Computadores\nVersion 1.0\n\n" +
-                "Integrantes:\n- Nombre 1\n- Nombre 2\n- Nombre 3",
+                "Integrantes:\n- Daniel Vargas \n- Freddy ortiz \n- Duvier Lozano \n- Juan Bahamon",
                 "Acerca de",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
+        }
+
+        private void ayudaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

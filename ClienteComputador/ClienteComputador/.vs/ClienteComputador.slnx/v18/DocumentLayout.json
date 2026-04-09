@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\daniel\\desktop\\cliente-servidor\\clientecomputador\\clientecomputador\\clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\daniel\\desktop\\cliente-servidor\\clientecomputador\\clientecomputador\\clientecomputador\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\daniel\\desktop\\cliente-servidor\\clientecomputador\\clientecomputador\\clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUIPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.Designer.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIPrincipal.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwI4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:33:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUIPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIPrincipal.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:32:37.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUIPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs [Design]",
+              "RelativeToolTip": "ClienteComputador\\GUIPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:32:20.312Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

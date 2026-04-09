@@ -24,101 +24,121 @@ namespace ClienteComputador
             acercaDeToolStripMenuItem = new ToolStripMenuItem();
             lblBienvenida = new Label();
             lblInstruccion = new Label();
-
             menuStrip1.SuspendLayout();
             SuspendLayout();
-
+            // 
             // menuStrip1
-            menuStrip1.Items.AddRange(new ToolStripItem[] {
-                computadoresToolStripMenuItem,
-                ayudaToolStripMenuItem
-            });
-            menuStrip1.Location = new Point(0, 0);
-            menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(600, 24);
+            // 
             menuStrip1.BackColor = Color.FromArgb(70, 130, 180);
             menuStrip1.ForeColor = Color.White;
-
+            menuStrip1.ImageScalingSize = new Size(20, 20);
+            menuStrip1.Items.AddRange(new ToolStripItem[] { computadoresToolStripMenuItem, ayudaToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Padding = new Padding(7, 3, 0, 3);
+            menuStrip1.Size = new Size(686, 30);
+            menuStrip1.TabIndex = 2;
+            // 
             // computadoresToolStripMenuItem
-            computadoresToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] {
-                agregarToolStripMenuItem,
-                buscarToolStripMenuItem,
-                listarToolStripMenuItem,
-                toolStripSeparator1,
-                eliminarToolStripMenuItem,
-                actualizarToolStripMenuItem
-            });
-            computadoresToolStripMenuItem.Name = "computadoresToolStripMenuItem";
-            computadoresToolStripMenuItem.Text = "Computadores";
+            // 
+            computadoresToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { agregarToolStripMenuItem, buscarToolStripMenuItem, listarToolStripMenuItem, toolStripSeparator1, eliminarToolStripMenuItem, actualizarToolStripMenuItem });
             computadoresToolStripMenuItem.ForeColor = Color.White;
-
+            computadoresToolStripMenuItem.Name = "computadoresToolStripMenuItem";
+            computadoresToolStripMenuItem.Size = new Size(121, 24);
+            computadoresToolStripMenuItem.Text = "Computadores";
+            // 
+            // agregarToolStripMenuItem
+            // 
             agregarToolStripMenuItem.Name = "agregarToolStripMenuItem";
+            agregarToolStripMenuItem.Size = new Size(158, 26);
             agregarToolStripMenuItem.Text = "Agregar";
-            agregarToolStripMenuItem.Click += new EventHandler(agregarToolStripMenuItem_Click);
-
+            agregarToolStripMenuItem.Click += agregarToolStripMenuItem_Click;
+            // 
+            // buscarToolStripMenuItem
+            // 
             buscarToolStripMenuItem.Name = "buscarToolStripMenuItem";
+            buscarToolStripMenuItem.Size = new Size(158, 26);
             buscarToolStripMenuItem.Text = "Buscar";
-            buscarToolStripMenuItem.Click += new EventHandler(buscarToolStripMenuItem_Click);
-
+            buscarToolStripMenuItem.Click += buscarToolStripMenuItem_Click;
+            // 
+            // listarToolStripMenuItem
+            // 
             listarToolStripMenuItem.Name = "listarToolStripMenuItem";
+            listarToolStripMenuItem.Size = new Size(158, 26);
             listarToolStripMenuItem.Text = "Listar";
-            listarToolStripMenuItem.Click += new EventHandler(listarToolStripMenuItem_Click);
-
+            listarToolStripMenuItem.Click += listarToolStripMenuItem_Click;
+            // 
+            // toolStripSeparator1
+            // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-
+            toolStripSeparator1.Size = new Size(155, 6);
+            // 
+            // eliminarToolStripMenuItem
+            // 
             eliminarToolStripMenuItem.Name = "eliminarToolStripMenuItem";
+            eliminarToolStripMenuItem.Size = new Size(158, 26);
             eliminarToolStripMenuItem.Text = "Eliminar";
-            eliminarToolStripMenuItem.Click += new EventHandler(eliminarToolStripMenuItem_Click);
-
+            eliminarToolStripMenuItem.Click += eliminarToolStripMenuItem_Click;
+            // 
+            // actualizarToolStripMenuItem
+            // 
             actualizarToolStripMenuItem.Name = "actualizarToolStripMenuItem";
+            actualizarToolStripMenuItem.Size = new Size(158, 26);
             actualizarToolStripMenuItem.Text = "Actualizar";
-            actualizarToolStripMenuItem.Click += new EventHandler(actualizarToolStripMenuItem_Click);
-
+            actualizarToolStripMenuItem.Click += actualizarToolStripMenuItem_Click;
+            // 
             // ayudaToolStripMenuItem
-            ayudaToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] {
-                acercaDeToolStripMenuItem
-            });
-            ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
-            ayudaToolStripMenuItem.Text = "Ayuda";
+            // 
+            ayudaToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { acercaDeToolStripMenuItem });
             ayudaToolStripMenuItem.ForeColor = Color.White;
-
+            ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
+            ayudaToolStripMenuItem.Size = new Size(65, 24);
+            ayudaToolStripMenuItem.Text = "Ayuda";
+            ayudaToolStripMenuItem.Click += ayudaToolStripMenuItem_Click;
+            // 
+            // acercaDeToolStripMenuItem
+            // 
             acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
+            acercaDeToolStripMenuItem.Size = new Size(224, 26);
             acercaDeToolStripMenuItem.Text = "Acerca de...";
-            acercaDeToolStripMenuItem.Click += new EventHandler(acercaDeToolStripMenuItem_Click);
-
+            acercaDeToolStripMenuItem.Click += acercaDeToolStripMenuItem_Click;
+            // 
             // lblBienvenida
-            lblBienvenida.AutoSize = false;
-            lblBienvenida.Dock = DockStyle.None;
+            // 
             lblBienvenida.Font = new Font("Segoe UI", 16F, FontStyle.Bold);
             lblBienvenida.ForeColor = Color.FromArgb(70, 130, 180);
-            lblBienvenida.Location = new Point(0, 80);
-            lblBienvenida.Size = new Size(600, 40);
+            lblBienvenida.Location = new Point(0, 107);
+            lblBienvenida.Name = "lblBienvenida";
+            lblBienvenida.Size = new Size(686, 53);
+            lblBienvenida.TabIndex = 0;
             lblBienvenida.Text = "Gestion de Computadores";
             lblBienvenida.TextAlign = ContentAlignment.MiddleCenter;
-
+            // 
             // lblInstruccion
-            lblInstruccion.AutoSize = false;
-            lblInstruccion.Dock = DockStyle.None;
+            // 
             lblInstruccion.Font = new Font("Segoe UI", 10F);
             lblInstruccion.ForeColor = Color.Gray;
-            lblInstruccion.Location = new Point(0, 130);
-            lblInstruccion.Size = new Size(600, 30);
+            lblInstruccion.Location = new Point(0, 173);
+            lblInstruccion.Name = "lblInstruccion";
+            lblInstruccion.Size = new Size(686, 40);
+            lblInstruccion.TabIndex = 1;
             lblInstruccion.Text = "Use el menu para navegar";
             lblInstruccion.TextAlign = ContentAlignment.MiddleCenter;
-
-            // Form
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            // 
+            // GUIPrincipal
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(600, 350);
+            ClientSize = new Size(686, 467);
             Controls.Add(lblBienvenida);
             Controls.Add(lblInstruccion);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
+            Margin = new Padding(3, 4, 3, 4);
             Name = "GUIPrincipal";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Sistema Computadores";
-
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);

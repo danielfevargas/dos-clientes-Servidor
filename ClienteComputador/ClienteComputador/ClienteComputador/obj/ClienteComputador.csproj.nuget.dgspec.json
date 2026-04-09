@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj": {}
+    "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj": {
+    "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
         "projectName": "ClienteComputador",
-        "projectPath": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\Desktop\\ClienteComputador\\ClienteComputador\\ClienteComputador\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",

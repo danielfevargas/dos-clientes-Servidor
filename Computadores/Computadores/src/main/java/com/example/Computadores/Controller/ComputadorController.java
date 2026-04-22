@@ -12,7 +12,7 @@ import java.util.List;
 @CrossOrigin(origins = "*")
 public class ComputadorController {
 
-    private ComputadorService service = new ComputadorService();
+    private ComputadorService service = ComputadorService.getInstancia();
 
 
     @GetMapping("/healthCheck")

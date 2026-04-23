@@ -78,5 +78,10 @@ namespace ClienteComputador
         {
             this.Close();
         }
+
+        private void txtMarca_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

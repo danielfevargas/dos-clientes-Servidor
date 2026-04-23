@@ -50,19 +50,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DANIEL\\.nuget\\packages\\": {}
+    "C:\\Users\\JUAN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
+      "projectUniqueName": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
       "projectName": "ClienteComputador",
-      "projectPath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
-      "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\obj\\",
+      "projectPath": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
+      "packagesPath": "C:\\Users\\JUAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oROBthEJBeM=",
+  "dgSpecHash": "gJHpCwZNhCE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
+  "projectFilePath": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\ClienteComputador.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DANIEL\\.nuget\\packages\\restsharp\\114.0.0\\restsharp.114.0.0.nupkg.sha512"
+    "C:\\Users\\JUAN\\.nuget\\packages\\restsharp\\114.0.0\\restsharp.114.0.0.nupkg.sha512"
   ],
   "logs": []
 }

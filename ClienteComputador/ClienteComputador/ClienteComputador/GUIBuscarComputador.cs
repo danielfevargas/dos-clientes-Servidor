@@ -27,15 +27,17 @@ namespace ClienteComputador
 
                 if (response != null)
                 {
-                    var lista = new List<Computador> { response };
-                    dgvResultado.DataSource = lista;
-                    OcultarColumnas();
+                    LlenarCampos(response);
                 }
                 else
                 {
                     MessageBox.Show("No se encontro ningun computador con ese codigo.", "Aviso");
-                    dgvResultado.DataSource = null;
+                    LimpiarCampos();
                 }
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("El codigo debe ser un numero entero.", "Aviso");
             }
             catch (Exception ex)
             {
@@ -43,36 +45,35 @@ namespace ClienteComputador
             }
         }
 
-        private void OcultarColumnas()
+        private void LlenarCampos(Computador c)
         {
-            // Ocultar columnas internas o de baja utilidad
-            string[] ocultar = { "activo", "perifericos", "portatil" };
-            foreach (var col in ocultar)
-                if (dgvResultado.Columns.Contains(col))
-                    dgvResultado.Columns[col].Visible = false;
+            txtBuscarMarca.Text = c.marca;
+            dptFechaBuscar.Value = DateTime.TryParse(c.fechaFabricacion, out DateTime fecha)
+                                   ? fecha : DateTime.Now;
+            txtEstado.Text = c.estado;
+            chkPortatil.Checked = c.portatil;
+            txtCosto.Text = c.costoMantenimiento.ToString("C0");
+            txtPerifericos.Text = c.PericosStr;
+        }
 
-            // Renombrar las bonitas
-            if (dgvResultado.Columns.Contains("codigo"))
-                dgvResultado.Columns["codigo"].HeaderText = "Codigo";
-            if (dgvResultado.Columns.Contains("marca"))
-                dgvResultado.Columns["marca"].HeaderText = "Marca";
-            if (dgvResultado.Columns.Contains("fechaFabricacion"))
-                dgvResultado.Columns["fechaFabricacion"].HeaderText = "Fecha";
-            if (dgvResultado.Columns.Contains("estado"))
-                dgvResultado.Columns["estado"].HeaderText = "Estado";
-            if (dgvResultado.Columns.Contains("costoMantenimiento"))
-                dgvResultado.Columns["costoMantenimiento"].HeaderText = "Costo";
-            if (dgvResultado.Columns.Contains("PortatilStr"))
-                dgvResultado.Columns["PortatilStr"].HeaderText = "Portatil";
-            if (dgvResultado.Columns.Contains("ActivoStr"))
-                dgvResultado.Columns["ActivoStr"].HeaderText = "Activo";
-            if (dgvResultado.Columns.Contains("PericosStr"))
-                dgvResultado.Columns["PericosStr"].HeaderText = "Perifericos";
+        private void LimpiarCampos()
+        {
+            txtBuscarMarca.Text = "";
+            dptFechaBuscar.Value = DateTime.Now;
+            txtEstado.Text = "";
+            chkPortatil.Checked = false;
+            txtCosto.Text = "0";
+            txtPerifericos.Text = "";
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
+
+        private void label1_Click(object sender, EventArgs e) { }
+        private void label5_Click(object sender, EventArgs e) { }
+        private void GUIBuscarComputador_Load(object sender, EventArgs e) { }
+        private void txtCodigo_TextChanged(object sender, EventArgs e) { }
     }
 }

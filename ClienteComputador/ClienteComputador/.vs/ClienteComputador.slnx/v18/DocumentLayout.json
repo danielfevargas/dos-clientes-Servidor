@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guibuscarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guibuscarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guibuscarcomputador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guibuscarcomputador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guibuscarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guibuscarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guiagregarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiagregarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guiactualizarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiactualizarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guiagregarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiagregarcomputador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|c:\\users\\juan\\downloads\\dos-clientes-servidor-main\\dos-clientes-servidor-main\\clientecomputador\\clientecomputador\\clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD69637C-27B4-E83C-8C73-8A66E2BB0C92}|ClienteComputador\\ClienteComputador.csproj|solutionrelative:clientecomputador\\guiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUIBuscarComputador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIBuscarComputador.Designer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.Designer.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIBuscarComputador.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:37:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUIBuscarComputador.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIBuscarComputador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIBuscarComputador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:26:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\Computador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\Computador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\Computador.cs",
+              "RelativeToolTip": "ClienteComputador\\Computador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:41:52.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUIBuscarComputador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIBuscarComputador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIBuscarComputador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteComputador\\GUIBuscarComputador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:22:08.565Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUIAgregarComputador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIAgregarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIAgregarComputador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIAgregarComputador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteComputador\\GUIAgregarComputador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:56:55.019Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUIActualizarComputador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIActualizarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIActualizarComputador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIActualizarComputador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteComputador\\GUIActualizarComputador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:03:14.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUIAgregarComputador.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIAgregarComputador.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIAgregarComputador.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIAgregarComputador.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIAgregarComputador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:58:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GUIPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.Designer.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIPrincipal.Designer.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwI4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:33:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUIPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeToolTip": "ClienteComputador\\GUIPrincipal.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAxwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:32:37.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUIPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Downloads\\dos-clientes-Servidor-main\\dos-clientes-Servidor-main\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs",
+              "RelativeDocumentMoniker": "ClienteComputador\\GUIPrincipal.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\DANIEL\\Desktop\\Cliente-Servidor\\ClienteComputador\\ClienteComputador\\ClienteComputador\\GUIPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:32:20.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
